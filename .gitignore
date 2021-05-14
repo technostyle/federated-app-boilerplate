@@ -1,0 +1,5 @@
+dist
+node_modules
+
+# For development mode
+src/api/constants.js
